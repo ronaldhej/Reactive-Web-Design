@@ -1,0 +1,132 @@
+#MainTitle {
+    text-align: center;
+    font-family: monospace;
+    font-size: 32px;
+    vertical-align: middle;
+    
+    
+}
+
+#logo {
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    top: 0px;
+    position: fixed;
+    background-image: url("https://www.tdnforums.com/uploads/monthly_2018_03/mall_food_leftoverpizza.thumb.gif.7b3bb2fe759563317c792645b4da7bd8.gif");
+
+}
+
+#MainHeader {
+    width: 100%;
+    background-color: bisque;
+    height: 80px;
+    text-align: center;
+    vertical-align: middle;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+html {
+    font-family: monospace;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+    
+    
+}
+
+#MainBody {
+    width 80%;
+    background: rgb(255, 228, 196, 0.8);
+    margin-top: 100px;
+}
+
+#BodyText {
+    opacity: 1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    
+}
+#menuPhotos {
+    border-collapse: separate;
+    border-spacing: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    
+}
+.itemImg {
+    width: 150px;
+    height: 125px;
+    background-color: tan;
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+    vertical-align: bottom;
+    box-shadow: 5px 5px 50px black;
+    transition: transform .2s;
+}
+
+.itemImg:hover{
+    transform: scale(2);
+
+}
+#Margarita {
+    background-image: url(margherita_small.jpg);
+}
+
+#Hawaii {
+    background-image: url(hawaiian_small.jpg);
+}
+
+#Milano {
+    background-image: url(veggie_lovers_small.jpg);
+}
+
+#MammaMia {
+    background-image: url(supreme_small.jpg);
+}
+
+#Pepperoni {
+    background-image: url(pepperoni_small.jpg);
+}
+
+#Coke {
+    background-image: url("http://torchrelay.arch.articul.ru/trcdn.sochi2014.com/partner/3dffe354-034c-4f58-9ebb-b79c93e25f99.png")
+}
+
+#Sprite {
+    background-image: url("https://www.thepacker.com/sites/default/files/styles/miniature/public/lemons_freshtrends_2013.jpg?itok=5AlocKDR");
+}
+
+#Water {
+    background-image: url("https://t00.deviantart.net/Ei9jtTlK1jvb5IvuV_y27HN9yJ0=/fit-in/150x150/filters:no_upscale():origin()/pre00/d191/th/pre/i/2004/366/2/2/water_droplet__the_afterlife__by_curios.jpg")
+}
+
+#Sparkles {
+    background-image: url(sparkles_big.jpg);
+}
+
+#SoftDrinks {
+    background-image: url(soft_drinks_big.jpg);
+}
+
+#Ranch {
+    background-image: url(ranch_chicken_small.jpg);
+}
+
+#Squid {
+    background-image: url(squid_scallop_big.jpg);
+}
+
+#Curry {
+    background-image: url(curry_chicken_small.jpg);
+}
+
+#Mushroom {
+    background-image: url(creamy_mushroom_big.jpg);
+}
